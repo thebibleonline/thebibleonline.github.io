@@ -20,13 +20,6 @@ div.footnotes :first-child {
     padding-right: 20px;
    
 }
-.chapterLinks a.current, a.current:hover {
-    color: #212529;
-}
-.chapterLinks a {
-    text-decoration: none;
-    color: #0d6efd;
-}
 .chapterLinks a:hover {
     cursor: pointer;
 }
