@@ -1,6 +1,6 @@
 📖 TheBibleOnline
 
-This website is built using the programming framework from tazmeah.github.io and serves as an online resource for reading and exploring the Holy Bible. Whether you're seeking spiritual guidance, daily scripture, or simply want to engage with the Word of God, this platform provides easy access to the sacred texts.
+This website was built by Pierre Miyamoto based on the programming framework from tazmeah.github.io and serves as an online resource for reading and exploring the Holy Bible. Whether you're seeking spiritual guidance, daily scripture, or simply want to engage with the Word of God, this platform provides easy access to the sacred texts.
 ✝️ Repent and Convert to Christianity
 
 We encourage visitors to reflect on their lives, repent of their sins, and accept Jesus Christ as their Lord and Savior. The Bible teaches us about faith, salvation, and the path to eternal life through Christ.
