@@ -172,6 +172,6 @@ document.querySelector("#chapters tbody").innerHTML = versesHTML;
 let favicon = document.createElement("link");
 favicon.rel="shortcut icon";
 favicon.type="image/x-icon";
-favicon.href = "/favicon.ico";
+favicon.href = "/christ.png";
 document.head.append(favicon);
 
