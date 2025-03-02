@@ -5,8 +5,6 @@ This website is built using the programming framework from tazmeah.github.io and
 
 We encourage visitors to reflect on their lives, repent of their sins, and accept Jesus Christ as their Lord and Savior. The Bible teaches us about faith, salvation, and the path to eternal life through Christ.
 
-"For all have sinned and fall short of the glory of God." — Romans 3:23
-
 "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness." — 1 John 1:9
 
 
