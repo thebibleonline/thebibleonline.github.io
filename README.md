@@ -19,7 +19,7 @@ We encourage visitors to reflect on their lives, repent of their sins, and accep
 🚀 Live Website
 
 Click here to access the online Bible : [thebibleonline.github.io](https://thebibleonline.github.io)
-
+```ascii
                     .-=====-.
                     | .""". |
                     | |   | |
@@ -65,3 +65,4 @@ s| '-.'.                                .'o.`  |
                      |       |
                      |       |
                      '-=====-'
+``
